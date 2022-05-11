@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="72.562" viewBox="0 0 78 72.562">
+  <g id="icon-uiuxdesigner" transform="translate(0.5 0.5)">
+    <path id="Path_232" data-name="Path 232" d="M-1421.015,1535H-1469v55.989h77V1535h-4.464" transform="translate(1469 -1519.427)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <line id="Line_537" data-name="Line 537" y2="5.5" transform="translate(77 12.028)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+    <path id="Path_233" data-name="Path 233" d="M-1416,1526h-53v9" transform="translate(1469 -1519.427)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Group_4729" data-name="Group 4729" transform="translate(30.5)">
+      <path id="Path_234" data-name="Path 234" d="M-1430,1553c.316.949,16.5-11.5,23.5-19.5,6.071-6.938,7-11,6-13s-6-3-20,14c0,0-11,14-12,16A5.52,5.52,0,0,1-1430,1553Z" transform="translate(1446.5 -1519.427)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_235" data-name="Path 235" d="M-1430,1553s3,11-11,10c0,0-4.5-.5-5.5-3.5,0,0,6,1,6,0s-2-12,8-9" transform="translate(1446.5 -1519.427)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_236" data-name="Path 236" d="M-1429.184,1545.782a34.449,34.449,0,0,1,4.346,4" transform="translate(1446.5 -1519.427)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+    </g>
+    <g id="Ellipse_1495" data-name="Ellipse 1495" transform="translate(12.333 9.573)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="1.375" fill="none"/>
+    </g>
+    <g id="Ellipse_1496" data-name="Ellipse 1496" transform="translate(3 9.573)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="1.375" fill="none"/>
+    </g>
+    <g id="Ellipse_1497" data-name="Ellipse 1497" transform="translate(7 9.573)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.25">
+      <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+      <circle cx="1.5" cy="1.5" r="1.375" fill="none"/>
+    </g>
+  </g>
+</svg>

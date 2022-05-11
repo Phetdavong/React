@@ -1,0 +1,299 @@
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1350px;
+    }
+    .new-keep-contact-item-icon-left .fa-thumbs-o-up {
+        margin-left: 10px !important;
+    }
+    .language-btn{
+        margin-left: 72px !important;
+    }
+}
+@media (min-width: 992px)and (max-width:1290px){
+    .btn-language{
+        margin-left: 72px !important;
+    }
+}
+@media (max-width: 1200px) {
+    .menu .container {
+        padding: 0;
+        max-width: 1050px;
+    }
+    .news-shopee-content-right {
+        padding-left: 25px;
+    }
+    .news-content-item-img,
+    .news-content-item-img,
+    .news-content-item-img {
+        width: 100%;
+    }
+    .news-content-item-text {
+        width: 244px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+    }
+    .service-content-item-text {
+        margin: 25px 0 !important;
+    }
+    .brand-slide-item {
+        width: 195px !important;
+        height: 148px;
+    }
+    .language-btn{
+        margin-left: 72px !important;
+    }
+}
+
+@media (max-width: 1024px) {
+    .brand-home a {
+        font-size: 13px;
+    }
+    .brand-slide-item {
+        width: 192px !important;
+        height: 122px;
+    }
+}
+
+@media (max-width: 992px) {
+    #dropdown-menu {
+        width: 100%;
+        text-align: center;
+        background-color: #24272c;
+    }
+    .banner-news-img-item {
+        height: 255px;
+    }
+    .banner-recruitment-text h4 {
+        font-size: 30px !important;
+    }
+    #news-content-item {
+        margin-top: 20px;
+    }
+    .introduce-item-img {
+        width: 100%;
+    }
+    .brand-slide-item {
+        width: 146px !important;
+        height: 120px;
+    }
+    .option-language {
+        height: 90px;
+    }
+}
+
+@media (max-width:805px) {
+    .brand-slide-content-logo .slick-arrow {
+        display: none;
+    }
+    .banner-recruitment-apply p {
+        font-size: 19px;
+    }
+   
+}
+
+@media (min-width:768px) and (max-width:992px) {
+    .new-fashion-menu .nav-tabs .nav-link {
+        font-size: 17px;
+    }
+}
+
+@media (min-width:600px) and (max-width:767px) {
+    .vacancies-box p {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 768px) {
+    .menu .container {
+        padding: 0;
+        max-width: 751px;
+    }
+    #dropdown-menu {
+        width: 100%;
+        /* left: 40%; */
+    }
+    .brand-slide-item {
+        height: 85px;
+        width: 135px !important;
+    }
+    .introduce-item-order {
+        order: 2 !important;
+    }
+    .introduce-item-img-mobile {
+        height: 300px;
+    }
+    .news-contact-info-list {
+        font-size: 13px;
+    }
+    .job-description-box-img img {
+        width: 100px;
+        height: 100px;
+    }
+    .job-description-box h4 {
+        font-size: 40px;
+    }
+    .name-page h2 {
+        font-size: 27px;
+    }
+    .news-shoping-content-right {
+        order: 1 !important;
+    }
+    .news-shoping-content-left {
+        order: 2 !important;
+    }
+    .page-recruitment-content {
+        height: 100%;
+    }
+    .service-content-item {
+        border-left: none;
+        width: 90%;
+        margin-top: 35px !important;
+        background-color: #f8f9fa69;
+        border: 2px solid #f8f9fa69;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 0.0625em 0.0625em, rgba(0, 0, 0, 0.25) 0px 0.125em 0.5em, rgba(255, 255, 255, 0.1) 0px 0px 0px 1px inset;
+    }
+    .new-fashion-slide .slick-prev {
+        padding-top: -10px;
+        left: 9%;
+        right: 0;
+    }
+    .new-fashion-slide .slick-arrow {
+        top: -17px;
+        right: 0px;
+    }
+    .new-fashion-slide .slick-next {
+        right: 9%;
+    }
+}
+
+@media (max-width:736px) {
+    .software-content {
+        background-color: #fff;
+    }
+    .brand-home .tab-content {
+        background-color: #fff;
+    }
+    .brand-slide-box {
+        box-shadow: none;
+    }
+    .brand-home-menu {
+        background-color: #f2ecec7e;
+    }
+    .img-service {
+        height: 243px;
+    }
+    .recruitment-slide-category a {
+        font-size: 24px;
+    }
+    .job-description-box {
+        padding: 30px 10px;
+    }
+    .brand-home .brand-home-name-slide-mobile a {
+        background-color: #f9f6f6 !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .navbar-brand {
+        width: 100px;
+        height: 55px;
+    }
+    .brand-home-name-slide-mobile a:hover {
+        border-bottom: 2px solid #fbb03b !important;
+    }
+    .brand-home-name-slide-mobile a:focus {
+        border-bottom: 2px solid #fbb03b !important;
+    }
+    .footer-home-logo-copy {
+        font-size: 8px;
+    }
+    .footer-home-contact-icon img {
+        width: 30px;
+        height: 30px;
+    }
+    .footer-home-logo-img img {
+        width: 90%;
+        height: 90%;
+    }
+    .banner-recruitment-box {
+        top: 35%;
+    }
+    .name-page {
+        margin-top: 15px;
+    }
+    .new-banner-slide-demo {
+        width: 100%;
+    }
+    .new-banner-text h2 {
+        font-size: 25px;
+    }
+    .most-read-news-topic h3 {
+        font-size: 30px;
+    }
+    .banner-news-img-item {
+        height: 235px;
+    }
+    .banner-news-img-slide .slick-dots li button::before {
+        font-size: 15px;
+    }
+    .recruitment-slide-category a {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 574px) {
+    .job-description-box {
+        padding: 30px 0;
+    }
+    .job-description-box-text {
+        text-align: center;
+    }
+    .job-description-box-text-right {
+        display: flex;
+        justify-content: space-around;
+    }
+}
+
+@media (max-width: 425px) {
+    .name-page h2 {
+        font-size: 25px;
+    }
+    .news-home-content p {
+        /* autoprefixer: off */
+        -webkit-box-orient: vertical;
+        /* autoprefixer: on */
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    
+    .latest-news-box-content-text p {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+    }
+    .contact-info-list li,
+    .contact-info-list li a {
+        font-size: 14px;
+    }
+    .page-recruitment-slide-item p {
+        margin-top: -25px;
+    }
+    .recruitment-slide-block-img .recruitment-slide-block-img-item {
+        margin: 0 30px;
+        width: calc(150px / 1.5) !important;
+        height: calc(135px / 1.5) !important;
+    }
+    .brand-slide-item {
+        height: 85px;
+        width: 110px !important;
+    }
+
+}
+
+@media (max-width: 320px) {}
